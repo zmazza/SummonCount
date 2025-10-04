@@ -41,8 +41,8 @@ This mod is open source! Feel free to contribute or report issues.
 
 ## Credits
 
-**Author**: Zac Mazza
-**Icon**: Custom pixel art featuring Terraria-style minions provided through Google Gemini.
+- **Author**: Zac Mazza
+- **Icon**: Custom pixel art featuring Terraria-style minions provided through Google Gemini.
 
 ## License
 
