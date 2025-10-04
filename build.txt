@@ -1,5 +1,5 @@
 displayName = Summon Count
-author = MomoskiMods
+author = Zac Mazza
 version = 0.1
 side = Client
-homepage = https://github.com/zmazza/Summon-Count
+homepage = https://github.com/zmazza/SummonCount
