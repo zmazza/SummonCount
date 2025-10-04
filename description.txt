@@ -1,0 +1,4 @@
+A simple way to track the number of minions you have summoned and the number available to you. A small value is shown in the upper right next to your equipment bar to show the number of summoned minions (x) and the number of available minion slots (y) in an x/y format.
+Simple, easy, effective. Enjoy!
+
+Author: Zac Mazza
